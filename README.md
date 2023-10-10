@@ -20,7 +20,7 @@ Other features include:
 - Surviving 4 Arenas unlocks your way to the final boss and the Story conclusion
 
 # How to run
-You can download a release build version [here](https://s4g.itch.io/karashuta/devlog/500039/day-1-patch-lol). Alternatively clone this repository and open the "project.godot" file using Godot 3.5.1 .
+You can download a release build version [here](https://s4g.itch.io/karashuta). Alternatively clone this repository and open the "project.godot" file using Godot 3.5.1 .
 
 # Highlight: random run Generation
 <p align="center">
