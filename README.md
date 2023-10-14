@@ -3,7 +3,7 @@
     <img src="readme/Karashuta_Banner.PNG" alt="Karashuta Banner"><br>
 </p>
 
-Karashuta was developed during my 1. Semester at the [S4G School for Games](https://www.school4games.net/) using Gdscript and the Godot Engine. This was also the first game I developed as part of a team of 5 people. Feel free to check out the offical Karashuta Website [here](https://karashuta.school4games.net/).
+Karashuta was developed during my 1. Semester at the [S4G School for Games](https://www.school4games.net/) using Gdscript and the Godot Engine. This was also the first game I developed as part of a team together with 5 other people. Feel free to check out the offical Karashuta Website [here](https://karashuta.school4games.net/).
 
 # Gameplay
 
